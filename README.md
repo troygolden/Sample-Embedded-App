@@ -1,1 +1,1 @@
-# Sample-Embedded-App
+# Sample-Embedded-Apps
