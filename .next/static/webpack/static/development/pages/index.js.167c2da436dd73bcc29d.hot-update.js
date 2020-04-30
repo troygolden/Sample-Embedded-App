@@ -14,7 +14,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _shopify_polaris__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @shopify/polaris */ "./node_modules/@shopify/polaris/index.es.js");
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
+ //import { Spinner } from '@shopify/polaris';
 
 var Index = function Index() {
   return __jsx("div", null, __jsx(_shopify_polaris__WEBPACK_IMPORTED_MODULE_1__["TextStyle"], {
@@ -27,4 +27,4 @@ var Index = function Index() {
 /***/ })
 
 })
-//# sourceMappingURL=index.js.59696c79fb1022139ac1.hot-update.js.map
+//# sourceMappingURL=index.js.167c2da436dd73bcc29d.hot-update.js.map

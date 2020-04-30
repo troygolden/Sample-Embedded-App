@@ -58904,24 +58904,19 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _shopify_polaris__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! @shopify/polaris */ "./node_modules/@shopify/polaris/index.es.js");
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
-
-
+ //import { Spinner } from '@shopify/polaris';
 
 var Index = function Index() {
   return __jsx("div", null, __jsx(_shopify_polaris__WEBPACK_IMPORTED_MODULE_1__["TextStyle"], {
     variation: "positive"
-  }, __jsx(_shopify_polaris__WEBPACK_IMPORTED_MODULE_1__["Spinner"], {
-    accessibilityLabel: "Spinner example",
-    size: "large",
-    color: "inkLightest"
-  }), "Sample app using React and Next.js"));
+  }, "Sample app using React and Next.js"));
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (Index);
 
 /***/ }),
 
-/***/ 3:
+/***/ 2:
 /*!*****************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2F&absolutePagePath=C%3A%5CUsers%5Ctroyp%5CDocuments%5Cprojects%5Csample-embedded-app%5Cpages%5Cindex.js ***!
   \*****************************************************************************************************************************************************/
@@ -58944,5 +58939,5 @@ module.exports = dll_2adc2403d89adc16ead0;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]);
+},[[2,"static/runtime/webpack.js"]]]);
 //# sourceMappingURL=index.js.map
